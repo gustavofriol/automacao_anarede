@@ -1,0 +1,46 @@
+CEPEL - CENTRO DE PESQUISAS DE ENERGIA ELETRICA - PROGRAMA DE ANALISE DE REDES - V12.00.01                                 PAG.   5
+
+ ONS - 1Q2025 - JANEIRO - Máxima Noturna - RSUL                                  
+ CASOS TABELADOS
+
+ CASO 01 - ONS - 1Q2025 - JANEIRO - Máxima Noturna - RSUL                        
+         - [ CASO CONVERGENTE ]
+
+CEPEL - CENTRO DE PESQUISAS DE ENERGIA ELETRICA - PROGRAMA DE ANALISE DE REDES - V12.00.01                                 PAG.   6
+
+ ONS - 1Q2025 - JANEIRO - Máxima Noturna - RSUL                                  
+ RELATORIO DE COMPARACAO DE FLUXOS EM LINHAS E TRANSFORMADORES
+
+        +--------------+--------------+
+        |              | ONS - 1Q2025 |
+        |              |  - JANEIRO - |
+        |              |  Máxima Notu |
+        |   DESCRICAO  | rna - RSUL   |
+        |              |              |
+        |              |              |
+        |              |              |
+        |              | >Convergente |
+ +------+--------------+--------------+
+ |      |              | FMW    FMVAR |
+ | NUM. |     NOME     | IpuMVA  CNC  |
+ |      |              |         TAP  |
+ +------+--------------+--------------+
+ |  939 | BLUMEN-SC230 |    0.     0. |
+ |43032 | BLU--1-SC000 |    0.   150. |
+ |NC= 1 |              |       1.000  |
+ +------+--------------+--------------+
+ |  939 | BLUMEN-SC230 |  151.    53. |
+ |43034 | BLU--2-SC000 |  153.   150. |
+ |NC= 2 |              |       1.000  |
+ +------+--------------+--------------+
+ |  939 | BLUMEN-SC230 |  143.    53. |
+ |43037 | BLU--3-SC000 |  146.   150. |
+ |NC= 3 |              |       1.000  |
+ +------+--------------+--------------+
+ |  939 | BLUMEN-SC230 |  144.    53. |
+ |43036 | BLU--4-SC000 |  146.   150. |
+ |NC= 4 |              |       1.000  |
+ +------+--------------+--------------+
+ FMW - FLUXO DE POT. ATIVA EM MW                    FMvar - FLUXO DE POT. REATIVA EM Mvar
+ IPU - FLUXO DE POT. APARENTE/TENSAO DA BARRA DE    CNC   - CARREGAMENTO NOM./EMERG. DO CIRCUITO EM MVA
+ TAP - TAP DO TRANSFORMADOR                          *    - TAP NA SEGUNDA BARRA

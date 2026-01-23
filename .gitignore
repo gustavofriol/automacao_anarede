@@ -1,0 +1,8 @@
+# Configurações da IDE
+.idea/
+
+# Ambiente Virtual
+Uso/__Execução__/Python/.venv/
+
+# Cache do Python (Corrigido)
+__pycache__/

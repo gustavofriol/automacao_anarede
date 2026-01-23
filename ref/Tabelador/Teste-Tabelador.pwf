@@ -1,0 +1,38 @@
+
+ULOG                                                                 
+2
+C:\Users\0341642\OneDrive - eletrobras.com\Área de Trabalho\Projeto\Desenvolvimento\Tabelador\CASOS ALTERNATIVOS SUL e SECO 1Q2025.SAV                                                                                                                                               
+(
+( Restabeleca o caso da posição no. 15
+(
+ARQV REST                                                            
+2
+(
+( Desliga os relatórios de convergência e de monitoração
+( nas opções padrão de execução
+(
+DOPC
+(Op) E (Op) E (Op) E (Op) E (Op) E (Op) E (Op) E (Op) E (Op) E (Op) E
+RCVG D RMON D
+99999
+ULOG
+1
+N-1_S-S-BLU-TR1-TR230.pwf
+ULOG
+1
+TABE_BLU_TR230.pwf
+EXLF TABE
+ULOG
+4
+N-1_BLU_TR525_TR5_1Q2025_ALT_RSUL_JANEIRO_MAXIMA_DIURNA.txt
+RELA RTAB FILE
+ULOG
+4
+Temp.txt
+CASO
+(
+FIM
+
+
+
+

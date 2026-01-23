@@ -1,0 +1,6 @@
+COMO A PASTA DE CASOS DE REFERÊNCIA DEVE ESTAR PARA O PROGRAMA FUNCIONAR.
+
+1. Pastas com os casos devem conter os arquivos PWF de interesse e o arquivo histórico referente aquele caso.
+2. Nome da pasta deve ser o mesmo nome do arquivo histórico.
+3. Cada PWF deve estar numerado de acordo com a sua respectiva posição no arquivo SAV.
+	Ex: 1 MAXIMA NOTURNA_JUN25_ELETRICO ou 1_ONS__2Q2025__MAIO__MAXIMA_DIURNA
