@@ -3,10 +3,10 @@ from pathlib import Path
 anarede_exe_path = Path(r"C:\Cepel\Anarede\V120100\ANAREDE.exe")
 
 # Definição das pastas
-dir_banco_de_dados = fr"L:\DOS\Gustavo\automacao_anarede\__Banco de Dados__"
-dir_pwf = r"L:\DOS\Gustavo\automacao_anarede\__Execução__\Anarede"
-dir_casos_referencia = r"L:\DOS\Gustavo\automacao_anarede\__Banco de Dados__\Casos de Referência"
-dir_relatorios = r"L:\DOS\Gustavo\automacao_anarede\Relatorios"
+dir_banco_de_dados = fr"C:\Users\0341642\OneDrive - eletrobras.com\Área de Trabalho\automacao_anarede\exe\data"
+dir_pwf = r"C:\Users\0341642\OneDrive - eletrobras.com\Área de Trabalho\automacao_anarede\exe\anarede"
+dir_casos_referencia = r"C:\Users\0341642\OneDrive - eletrobras.com\Área de Trabalho\automacao_anarede\exe\data\Casos de Referência"
+dir_relatorios = r"C:\Users\0341642\OneDrive - eletrobras.com\Área de Trabalho\automacao_anarede\relatorios"
 
 # Nome dos relatórios txt e xlsx exportados pelo Anarede
 file_txt_ctgs = 'RELATORIO_CTGS.txt'

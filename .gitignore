@@ -6,3 +6,9 @@ Uso/__Execução__/Python/.venv/
 
 # Cache do Python (Corrigido)
 __pycache__/
+
+# Pasta de relatórios
+relatorios/
+
+# Pasta de execução
+exe/
